@@ -1,0 +1,11 @@
+{
+    "model": "Gradient Boosting Regressor",
+    "target": "Dissolved Oxygen (mg/l)",
+    "test_mae": 1.2923963601937112,
+    "test_rmse": 1.9092009177292861,
+    "test_r2": 0.24643275578479262,
+    "number_of_features": 31,
+    "training_samples": 87963,
+    "validation_samples": 7385,
+    "test_samples": 4652
+}

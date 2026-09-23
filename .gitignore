@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Datasets and Processed Data
+# Ignore large dataset files so they don't exceed GitHub's limits
+data/
+processed_data/
+*.csv
+*.xlsx
+
+# Temporary folders/files
+outputs/
+.DS_Store
